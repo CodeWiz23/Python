@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (ai_job)" project-jdk-type="Python SDK" />
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (Mursalin_Python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (Mursalin_Python)" project-jdk-type="Python SDK" />
+>>>>>>> 6e24bd9a86f5f0e1d98d5bc9831c24d66956dd12
 </project>
