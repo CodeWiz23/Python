@@ -1,2 +1,2 @@
-x = "Hello,World!"
+x ="Hello,World!"
 print(x[:1])
