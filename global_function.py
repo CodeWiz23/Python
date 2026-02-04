@@ -4,3 +4,4 @@ def fun():
 fun()
 print(x)
 
+
