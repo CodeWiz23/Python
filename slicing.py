@@ -1,5 +1,3 @@
 x ="Hello,World!"
-print(x[:5])
+print(x[0])
 
-x ="Hello,World!"
-print(x[3:9])
