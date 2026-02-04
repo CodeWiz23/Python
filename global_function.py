@@ -1,5 +1,5 @@
 def fun():
-    x = 5
+    global x = 5
     print(x)
 fun()
 
