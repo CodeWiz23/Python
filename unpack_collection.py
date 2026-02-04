@@ -1,2 +1,3 @@
 fruits = ["apple", "banana", "cherry"]
-fruits = x,y,z;
+x,y,z = fruits;
+print(x,y,z)
