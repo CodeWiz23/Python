@@ -1,2 +1,2 @@
 x = "hello,world!"
-print(x.lower())
+print(x.upper())
