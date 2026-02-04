@@ -1,2 +1,2 @@
 import random
-print(random.randrage(1,9))
+print(random.randrange(1,9))
