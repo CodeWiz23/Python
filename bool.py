@@ -1,1 +1,4 @@
-print(7>6)
+def fun():
+    bool(5)
+if fun():
+    
