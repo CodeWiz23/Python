@@ -1,3 +1,3 @@
 def fun():
-    bool(5)
+    return bool(5)
 print (fun())
