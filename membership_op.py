@@ -1,2 +1,2 @@
-x = ["apple,banana,mango"]
+x = ["apple","banana","mango"]
 print("apple" in x)
