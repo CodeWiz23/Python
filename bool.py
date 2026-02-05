@@ -1,3 +1,7 @@
 def fun():
-   c= 4+5
-print (fun())
+    a= bool(5)
+    return a
+if fun():
+    print("Yes")
+else:
+    print("No")
