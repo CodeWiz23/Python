@@ -1,2 +1,2 @@
 x = 9
-print (not(x>9 and x<12))
+print (not(x>8 and x<12))
