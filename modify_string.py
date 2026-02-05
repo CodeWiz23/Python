@@ -9,4 +9,4 @@ x = " hello,world! "
 print(x.strip())
 
 x = "hello,world!"
-print(x.split(o))
+print(x.split("o"))
